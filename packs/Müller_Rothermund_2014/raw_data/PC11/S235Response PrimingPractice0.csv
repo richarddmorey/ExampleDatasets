@@ -1,0 +1,9 @@
+RT,TargetWord,TargetGender,RequiredResponse,PrimeWord,Response,Accuracy
+968.1333800804168,Anne,f,f,stark,f,1
+840.1576177980132,Anke,f,f,Schiff,f,1
+982.1832104362329,Sebastian,m,m,Korb,m,1
+686.2145887257611,Sven,m,m,aktiv,m,1
+590.5669575322463,Felix,m,m,gehen,m,1
+432.81953432642695,Johanna,f,f,Papier,f,1
+439.7449955231423,Petra,f,f,lesen,m,0
+592.9633514874695,Norbert,m,m,Haus,f,0

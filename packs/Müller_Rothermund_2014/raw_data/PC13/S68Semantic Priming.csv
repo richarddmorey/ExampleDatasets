@@ -1,0 +1,249 @@
+PrimeGender,TargetID,PrimeID,PrimeWordtype,TargetGender,PrimeValence,Accuracy,RT,TargetWord,RequiredResponse,PrimeWord,Response
+m,5,11,substantiv,f,neutral,1,439.1139097287464,Erna,f,Auto,"['m', 'f']"
+f,23,30,definition,f,NA,1,520.1250438254306,Kerstin,f,Königin,"['m', 'f']"
+m,2,16,adjektiv,town,neutral,0,503.16562579882884,Freiburg,town,sachlich,"['m', 'f']"
+f,18,6,adjektiv,town,positiv,1,400.3531175051762,Wolfsburg,town,einfühlsam,town
+m,13,29,definition,town,NA,0,500.87846360361254,Halle,town,Bruder,"['m', 'f']"
+f,30,30,definition,m,NA,0,538.8788239845894,Alexander,m,Königin,town
+m,12,24,adjektiv,town,negativ,1,807.045867561385,Darmstadt,town,aggressiv,town
+f,14,20,substantiv,m,negativ,1,409.78532187750716,Manfred,m,Handtasche,"['m', 'f']"
+m,21,16,adjektiv,f,neutral,0,721.6428344943324,Tanja,f,sachlich,town
+f,21,26,adjektiv,f,negativ,0,504.678667260805,Tanja,f,zickig,town
+m,17,8,adjektiv,town,positiv,1,640.1562209722442,Cottbus,town,stark,town
+f,8,16,adjektiv,town,neutral,1,568.0361610204159,Bremen,town,emotional,town
+f,23,4,verb,town,positiv,1,582.1183977293458,Ulm,town,pflegen,town
+f,3,19,substantiv,town,negativ,1,678.213013106415,Weimar,town,Küche,town
+f,2,13,verb,town,neutral,1,430.18065145150786,Freiburg,town,kochen,town
+f,10,21,verb,town,negativ,1,491.73847514140334,Augsburg,town,spülen,town
+f,22,13,verb,f,neutral,1,498.30802518198425,Ulrike,f,kochen,"['m', 'f']"
+f,25,18,substantiv,town,negativ,1,614.4306050071009,Berlin,town,Mode,town
+m,1,8,adjektiv,f,positiv,1,675.1271460478847,Angelika,f,stark,"['m', 'f']"
+m,24,16,adjektiv,town,neutral,1,552.0218351773565,Lübeck,town,sachlich,town
+f,8,24,adjektiv,town,negativ,1,624.7662761608126,Rostock,town,geschwätzig,town
+f,13,19,substantiv,f,negativ,1,548.8144442938392,Kerstin,f,Küche,"['m', 'f']"
+f,6,14,verb,m,neutral,1,577.8533305210658,Fritz,m,nähen,"['m', 'f']"
+f,19,14,verb,f,neutral,1,479.43020691172933,Silke,f,nähen,"['m', 'f']"
+f,23,22,verb,m,negativ,1,493.9102595442364,Hannes,m,putzen,"['m', 'f']"
+f,10,25,adjektiv,f,negativ,0,406.74778498384967,Daniela,f,hysterisch,town
+m,3,5,verb,town,positiv,1,444.9235866569552,Weimar,town,beschützen,town
+m,12,22,verb,f,negativ,1,561.0235379077722,Katja,f,fluchen,"['m', 'f']"
+m,19,28,definition,f,NA,1,477.55622572140055,Silke,f,Vater,"['m', 'f']"
+m,18,22,verb,town,negativ,1,554.5526037526542,Wolfsburg,town,fluchen,town
+m,12,29,definition,m,NA,1,550.3869905253396,Jürgen,m,Bruder,"['m', 'f']"
+f,17,29,definition,town,NA,1,602.4151114178267,Düsseldorf,town,Schwester,town
+m,4,9,substantiv,m,neutral,1,596.8725075393877,Daniel,m,Skat,"['m', 'f']"
+m,8,4,verb,town,positiv,1,509.30579165788004,Rostock,town,bauen,town
+f,15,1,substantiv,f,positiv,1,754.149759257075,Petra,f,Blumen,"['m', 'f']"
+f,26,17,adjektiv,town,neutral,1,533.2627470810394,Rostock,town,häuslich,town
+m,1,6,adjektiv,town,positiv,1,645.0118660332009,Bonn,town,tapfer,town
+m,0,7,adjektiv,m,positiv,1,979.187857674674,Achim,m,mutig,"['m', 'f']"
+m,29,2,substantiv,f,positiv,0,972.1503710667321,Anna,f,Muskeln,town
+m,1,1,substantiv,town,positiv,1,554.9895307923407,München,town,Sport,town
+m,2,23,verb,m,negativ,1,737.1048555054358,Bernhard,m,boxen,"['m', 'f']"
+f,20,0,substantiv,town,positiv,1,789.6576240834747,Kassel,town,Ballett,town
+f,15,30,definition,town,NA,0,408.3750867778235,Aachen,town,Königin,"['m', 'f']"
+f,13,11,substantiv,town,neutral,1,759.0696582944929,Wuppertal,town,Diät,town
+f,17,9,substantiv,f,neutral,1,538.0376556238389,Sabine,f,Haushalt,"['m', 'f']"
+f,30,29,definition,f,NA,1,634.3057567372625,Franziska,f,Schwester,"['m', 'f']"
+f,13,13,verb,m,neutral,1,749.6961205963544,Klaus,m,kochen,"['m', 'f']"
+f,19,9,substantiv,m,neutral,1,587.4240999903577,Thomas,m,Haushalt,"['m', 'f']"
+m,6,15,adjektiv,m,neutral,1,484.18360434084207,Fritz,m,dominant,"['m', 'f']"
+f,26,1,substantiv,town,positiv,1,424.3709745232991,Dortmund,town,Blumen,town
+m,26,10,substantiv,town,neutral,1,439.17257640293883,Rostock,town,Stammtisch,town
+f,14,9,substantiv,town,neutral,1,613.8073414358587,Frankfurt,town,Haushalt,town
+m,16,7,adjektiv,town,positiv,1,502.7412701894036,Würzburg,town,mutig,town
+f,15,21,verb,m,negativ,1,524.9337555471811,Markus,m,spülen,"['m', 'f']"
+f,21,0,substantiv,town,positiv,1,586.1272871272831,Koblenz,town,Ballett,town
+m,22,18,substantiv,m,negativ,1,932.2858072744111,Wolfgang,m,Bierbauch,"['m', 'f']"
+m,30,26,adjektiv,f,negativ,1,644.1271167145715,Franziska,f,brutal,"['m', 'f']"
+m,30,23,verb,town,negativ,1,618.8881547794836,Essen,town,boxen,town
+f,16,15,adjektiv,f,neutral,1,414.0651954368195,Renate,f,sensibel,"['m', 'f']"
+f,11,18,substantiv,town,negativ,1,612.3630237921134,Dresden,town,Mode,town
+f,23,14,verb,town,neutral,1,970.0626755634403,Paderborn,town,nähen,town
+f,7,9,substantiv,town,neutral,1,615.6050559497999,Jena,town,Haushalt,town
+f,27,28,definition,town,NA,1,581.7063341849007,Hannover,town,Mutter,town
+m,26,1,substantiv,m,positiv,1,474.65585709915104,Hubert,m,Sport,"['m', 'f']"
+m,7,14,verb,f,neutral,1,520.3982629077473,Helga,f,rechnen,"['m', 'f']"
+m,18,6,adjektiv,f,positiv,1,487.80166194308094,Sandra,f,tapfer,"['m', 'f']"
+f,22,7,adjektiv,town,positiv,1,553.027270225698,Regensburg,town,fürsorglich,town
+m,18,11,substantiv,m,neutral,1,688.2905508940667,Friedrich,m,Auto,"['m', 'f']"
+m,18,27,definition,town,NA,1,647.2280694893016,Gera,town,Mann,town
+f,2,24,adjektiv,town,negativ,1,485.23429653766925,Bochum,town,geschwätzig,town
+f,21,23,verb,town,negativ,1,550.4590667250113,Karlsruhe,town,bügeln,town
+m,7,0,substantiv,m,positiv,1,634.9776298384313,Georg,m,Computer,"['m', 'f']"
+f,16,8,adjektiv,town,positiv,1,562.8625984587643,Würzburg,town,zärtlich,town
+f,20,17,adjektiv,f,neutral,1,780.1586514486871,Susanne,f,häuslich,"['m', 'f']"
+f,11,15,adjektiv,m,neutral,1,629.3425561070762,Jens,m,sensibel,"['m', 'f']"
+f,27,23,verb,m,negativ,1,912.7436587610873,Stefan,m,bügeln,"['m', 'f']"
+f,29,27,definition,town,NA,1,538.7899858781111,Bielefeld,town,Frau,town
+f,12,3,verb,town,positiv,1,572.585621915664,Darmstadt,town,tanzen,town
+f,8,6,adjektiv,m,positiv,1,524.2384157762672,Hans,m,einfühlsam,"['m', 'f']"
+m,26,12,verb,f,neutral,1,616.5906560750045,Nina,f,kämpfen,"['m', 'f']"
+f,4,6,adjektiv,town,positiv,1,458.63622331887655,Rudolstadt,town,einfühlsam,town
+m,16,30,definition,m,NA,1,375.5156032400464,Norbert,m,König,"['m', 'f']"
+f,16,19,substantiv,m,negativ,1,562.2415698084069,Norbert,m,Küche,"['m', 'f']"
+f,12,12,verb,town,neutral,1,744.3820373819108,Krefeld,town,schminken,town
+f,19,5,verb,town,positiv,1,488.2682016848321,Chemnitz,town,backen,town
+m,5,24,adjektiv,town,negativ,1,553.5024702860483,Bottrop,town,aggressiv,town
+m,27,27,definition,town,NA,1,454.6359942395384,Hannover,town,Mann,town
+m,25,15,adjektiv,town,neutral,1,476.7684160975705,Potsdam,town,dominant,town
+m,5,28,definition,m,NA,1,491.2241639650574,Frank,m,Vater,"['m', 'f']"
+m,13,27,definition,f,NA,1,556.4142928780029,Kerstin,f,Mann,"['m', 'f']"
+f,8,28,definition,f,NA,1,473.0145870495335,Heike,f,Mutter,"['m', 'f']"
+m,19,6,adjektiv,m,positiv,1,706.1771817367344,Thomas,m,tapfer,"['m', 'f']"
+f,27,10,substantiv,f,neutral,1,641.607243378644,Katharina,f,Tratsch,"['m', 'f']"
+f,14,18,substantiv,f,negativ,1,866.3441862023546,Monika,f,Mode,"['m', 'f']"
+f,5,28,definition,m,NA,1,430.09013715425226,Frank,m,Mutter,"['m', 'f']"
+m,21,3,verb,town,positiv,1,429.1260481430754,Koblenz,town,reparieren,town
+m,27,2,substantiv,m,positiv,1,475.04501270418587,Stefan,m,Muskeln,"['m', 'f']"
+f,3,15,adjektiv,town,neutral,1,473.9141427191953,Leipzig,town,sensibel,town
+f,4,12,verb,f,neutral,1,550.9082858296779,Claudia,f,schminken,"['m', 'f']"
+f,24,30,definition,town,NA,1,541.6442592563726,Lübeck,town,Königin,town
+f,4,26,adjektiv,m,negativ,1,673.0545362609064,Daniel,m,zickig,"['m', 'f']"
+m,17,25,adjektiv,m,negativ,1,550.0352698456936,Peter,m,grob,"['m', 'f']"
+f,24,8,adjektiv,m,positiv,1,744.0540627370638,Ingo,m,zärtlich,"['m', 'f']"
+m,29,13,verb,m,neutral,1,503.41565757662465,Thorsten,m,rasieren,"['m', 'f']"
+m,20,14,verb,town,neutral,1,588.1462588122304,Passau,town,rechnen,town
+m,9,14,verb,m,neutral,1,500.6535746862255,Helmut,m,rechnen,"['m', 'f']"
+m,4,19,substantiv,town,negativ,1,538.3776429686122,Minden,town,Glatze,town
+f,20,27,definition,m,NA,1,744.0400944813064,Ulrich,m,Frau,"['m', 'f']"
+f,11,21,verb,f,negativ,1,503.63970839873673,Karin,f,spülen,"['m', 'f']"
+m,15,14,verb,town,neutral,1,447.63482509642927,Hamburg,town,rechnen,town
+m,7,2,substantiv,town,positiv,1,470.0088977789392,Stuttgart,town,Muskeln,town
+f,5,21,verb,town,negativ,1,453.2299496165706,Bottrop,town,spülen,town
+f,18,8,adjektiv,f,positiv,1,694.4583738994652,Sandra,f,zärtlich,"['m', 'f']"
+f,22,2,substantiv,m,positiv,0,407.2070612327252,Wolfgang,m,Familie,town
+m,28,12,verb,m,neutral,0,492.28128155948525,Florian,m,kämpfen,town
+m,25,1,substantiv,f,positiv,1,545.750926444498,Linda,f,Sport,"['m', 'f']"
+f,30,25,adjektiv,town,negativ,1,567.7204784407195,Magdeburg,town,hysterisch,town
+f,7,5,verb,f,positiv,0,613.0991508697434,Helga,f,backen,town
+m,11,4,verb,town,positiv,1,533.2831407343974,Wiesbaden,town,bauen,town
+m,14,11,substantiv,town,neutral,1,457.70090891437576,Flensburg,town,Auto,town
+f,9,5,verb,town,positiv,1,468.3159451830079,Konstanz,town,backen,town
+f,5,23,verb,f,negativ,1,541.4364116110164,Erna,f,bügeln,"['m', 'f']"
+m,13,17,adjektiv,m,neutral,1,641.5879671857283,Klaus,m,groß,"['m', 'f']"
+f,10,18,substantiv,m,negativ,1,569.4461167551026,Horst,m,Mode,"['m', 'f']"
+f,0,24,adjektiv,m,negativ,1,867.2705609232025,Achim,m,geschwätzig,"['m', 'f']"
+f,17,27,definition,town,NA,1,524.7789872735211,Cottbus,town,Frau,town
+m,2,15,adjektiv,town,neutral,1,539.0612494045399,Bochum,town,dominant,town
+f,1,26,adjektiv,town,negativ,1,416.58674496341064,Bonn,town,zickig,town
+m,8,20,substantiv,f,negativ,1,536.7735284791024,Heike,f,Schweiss,"['m', 'f']"
+m,30,4,verb,m,positiv,1,477.00364152422026,Alexander,m,bauen,"['m', 'f']"
+m,3,30,definition,town,NA,1,444.39139611313294,Leipzig,town,König,town
+m,25,5,verb,town,positiv,1,525.4089556075314,Berlin,town,beschützen,town
+m,24,13,verb,town,neutral,1,445.9631042492447,Kiel,town,rasieren,town
+m,8,3,verb,m,positiv,1,499.61293963337994,Hans,m,reparieren,"['m', 'f']"
+m,0,7,adjektiv,f,positiv,1,537.7172238371486,Annette,f,mutig,"['m', 'f']"
+m,22,25,adjektiv,town,negativ,1,493.1783229432085,Regensburg,town,grob,town
+m,28,26,adjektiv,town,negativ,0,437.1295793180252,Fulda,town,brutal,"['m', 'f']"
+f,0,27,definition,f,NA,1,627.5434447674115,Annette,f,Frau,"['m', 'f']"
+f,22,26,adjektiv,town,negativ,1,395.44132005607935,Mainz,town,zickig,town
+m,30,18,substantiv,town,negativ,1,601.6094224265771,Magdeburg,town,Bierbauch,town
+f,2,22,verb,f,negativ,1,1580.400022907952,Anja,f,putzen,"['m', 'f']"
+m,10,26,adjektiv,m,negativ,1,535.8203347074095,Horst,m,brutal,"['m', 'f']"
+f,9,14,verb,town,neutral,1,428.97938145779335,Nürnberg,town,nähen,town
+f,30,17,adjektiv,town,neutral,0,537.3733253807131,Essen,town,häuslich,"['m', 'f']"
+m,16,29,definition,town,NA,1,461.8399824558992,Münster,town,Bruder,town
+f,15,20,substantiv,town,negativ,1,378.6905877702793,Hamburg,town,Handtasche,town
+m,27,17,adjektiv,f,neutral,1,502.89883211416964,Katharina,f,groß,"['m', 'f']"
+m,20,16,adjektiv,m,neutral,1,540.7128559635339,Ulrich,m,sachlich,"['m', 'f']"
+m,15,18,substantiv,town,negativ,1,406.45501034350673,Aachen,town,Bierbauch,town
+f,26,7,adjektiv,f,positiv,1,475.9065747182376,Nina,f,fürsorglich,"['m', 'f']"
+m,16,15,adjektiv,f,neutral,1,568.5208594946971,Renate,f,dominant,"['m', 'f']"
+m,2,24,adjektiv,f,negativ,1,520.116662871942,Anja,f,aggressiv,"['m', 'f']"
+m,25,10,substantiv,m,neutral,1,518.8754436667296,Kurt,m,Stammtisch,"['m', 'f']"
+f,25,1,substantiv,m,positiv,1,470.605342299109,Kurt,m,Blumen,"['m', 'f']"
+m,9,13,verb,f,neutral,1,563.2064969150861,Julia,f,rasieren,"['m', 'f']"
+f,9,2,substantiv,f,positiv,1,483.546093148675,Julia,f,Familie,"['m', 'f']"
+m,10,0,substantiv,town,positiv,0,501.89004468438725,Suhl,town,Computer,"['m', 'f']"
+f,28,10,substantiv,town,neutral,1,477.19416853260554,Fulda,town,Tratsch,town
+m,22,6,adjektiv,town,positiv,1,398.14138389090203,Mainz,town,tapfer,town
+m,19,28,definition,town,NA,1,526.1364223665623,Chemnitz,town,Vater,town
+f,24,20,substantiv,town,negativ,1,446.56094559502435,Kiel,town,Handtasche,town
+f,1,4,verb,f,positiv,1,531.6566770358122,Angelika,f,pflegen,"['m', 'f']"
+m,0,20,substantiv,town,negativ,1,533.9949630470073,Marburg,town,Schweiss,town
+f,4,25,adjektiv,town,negativ,1,411.51934114532196,Minden,town,hysterisch,town
+f,7,23,verb,town,negativ,1,406.99530247559323,Stuttgart,town,bügeln,town
+f,0,2,substantiv,town,positiv,1,460.5403759416049,Braunschweig,town,Familie,town
+f,18,13,verb,town,neutral,1,455.53080070226315,Gera,town,kochen,town
+m,15,19,substantiv,f,negativ,0,431.0357880680158,Petra,f,Glatze,town
+f,1,11,substantiv,town,neutral,1,383.1880867539894,München,town,Diät,town
+f,6,2,substantiv,town,positiv,1,523.051393403307,Duisburg,town,Familie,town
+m,24,8,adjektiv,m,positiv,1,506.07996267683575,Ingo,m,stark,"['m', 'f']"
+f,24,20,substantiv,f,negativ,1,532.1360675728783,Hanna,f,Handtasche,"['m', 'f']"
+f,0,7,adjektiv,town,positiv,1,565.9090750360747,Marburg,town,fürsorglich,town
+f,26,10,substantiv,m,neutral,1,455.05671810246895,Hubert,m,Tratsch,"['m', 'f']"
+m,3,21,verb,m,negativ,1,618.0447514977914,Dieter,m,saufen,"['m', 'f']"
+m,21,19,substantiv,m,negativ,1,522.5946314405974,Volker,m,Glatze,"['m', 'f']"
+f,29,11,substantiv,f,neutral,1,536.9151665923937,Anna,f,Diät,"['m', 'f']"
+m,17,13,verb,town,neutral,1,476.9142446875776,Düsseldorf,town,rasieren,town
+m,23,23,verb,f,negativ,1,507.11668661801923,Kerstin,f,boxen,"['m', 'f']"
+m,11,17,adjektiv,town,neutral,1,751.8363367411212,Dresden,town,groß,town
+m,10,10,substantiv,town,neutral,1,483.97380113954114,Augsburg,town,Stammtisch,town
+f,21,5,verb,m,positiv,1,564.7946875930074,Volker,m,backen,"['m', 'f']"
+m,7,7,adjektiv,town,positiv,1,407.04139771958125,Jena,town,mutig,town
+m,5,12,verb,town,neutral,1,523.3536664576377,Göttingen,town,kämpfen,town
+m,20,5,verb,f,positiv,1,693.9317706579686,Susanne,f,beschützen,"['m', 'f']"
+m,22,3,verb,f,positiv,1,1469.2532151433397,Ulrike,f,reparieren,"['m', 'f']"
+m,24,29,definition,f,NA,1,1030.1652863701065,Hanna,f,Bruder,"['m', 'f']"
+f,3,0,substantiv,m,positiv,1,429.1947719611926,Dieter,m,Ballett,"['m', 'f']"
+f,16,8,adjektiv,town,positiv,1,412.61445239547356,Münster,town,zärtlich,town
+m,23,20,substantiv,town,negativ,1,470.30418670533436,Ulm,town,Schweiss,town
+f,9,16,adjektiv,m,neutral,1,578.5517433081395,Helmut,m,emotional,"['m', 'f']"
+f,28,11,substantiv,m,neutral,1,612.1361793188953,Florian,m,Diät,"['m', 'f']"
+m,6,25,adjektiv,town,negativ,1,485.4301314832128,Duisburg,town,grob,town
+f,2,3,verb,m,positiv,0,488.13075404837036,Bernhard,m,tanzen,town
+f,5,22,verb,town,negativ,1,428.35500042599506,Göttingen,town,putzen,town
+m,3,18,substantiv,f,negativ,1,536.8115221348262,Birgit,f,Bierbauch,"['m', 'f']"
+m,20,19,substantiv,town,negativ,1,492.48968793517633,Kassel,town,Glatze,town
+m,9,12,verb,town,neutral,1,374.1408475099206,Nürnberg,town,kämpfen,town
+m,6,10,substantiv,f,neutral,1,447.49290761808425,Eva,f,Stammtisch,"['m', 'f']"
+m,12,22,verb,town,negativ,1,454.2415306973453,Krefeld,town,fluchen,town
+m,28,25,adjektiv,f,negativ,1,554.759054572628,Carolin,f,grob,"['m', 'f']"
+f,25,16,adjektiv,town,neutral,1,424.47741263208627,Potsdam,town,emotional,town
+m,8,21,verb,town,negativ,1,517.1590244011668,Bremen,town,saufen,town
+f,14,1,substantiv,town,positiv,1,422.1572853532507,Flensburg,town,Blumen,town
+f,28,3,verb,f,positiv,1,514.8863891919291,Carolin,f,tanzen,"['m', 'f']"
+f,3,0,substantiv,f,positiv,1,494.07704051770907,Birgit,f,Ballett,"['m', 'f']"
+f,29,4,verb,town,positiv,1,438.14758579651425,Gladbach,town,pflegen,town
+f,11,28,definition,town,NA,1,425.41887306902026,Wiesbaden,town,Mutter,town
+f,6,22,verb,town,negativ,1,424.457298343782,Heidelberg,town,putzen,town
+m,23,28,definition,town,NA,1,470.3829676676605,Paderborn,town,Vater,town
+m,11,22,verb,m,negativ,1,625.4929048245685,Jens,m,fluchen,"['m', 'f']"
+m,14,0,substantiv,town,positiv,1,440.14169398622016,Frankfurt,town,Computer,town
+m,1,24,adjektiv,m,negativ,1,427.4107463378414,Albert,m,aggressiv,"['m', 'f']"
+f,6,24,adjektiv,f,negativ,1,567.0994497904758,Eva,f,geschwätzig,"['m', 'f']"
+f,19,29,definition,town,NA,1,362.4639444398099,Erfurt,town,Schwester,town
+m,28,2,substantiv,town,positiv,0,432.08927391617635,Mannheim,town,Muskeln,"['m', 'f']"
+m,14,5,verb,m,positiv,1,493.599605536474,Manfred,m,beschützen,"['m', 'f']"
+m,13,17,adjektiv,town,neutral,1,500.2152508210429,Wuppertal,town,groß,town
+m,9,21,verb,town,negativ,1,397.4035806227221,Konstanz,town,saufen,town
+m,0,9,substantiv,town,neutral,1,470.7668153355371,Braunschweig,town,Skat,town
+f,7,17,adjektiv,m,neutral,1,422.6830504994723,Georg,m,häuslich,"['m', 'f']"
+m,10,4,verb,f,positiv,0,468.58692934438295,Daniela,f,bauen,town
+m,6,23,verb,town,negativ,1,467.46164666183176,Heidelberg,town,boxen,town
+m,19,11,substantiv,town,neutral,1,431.1877626905698,Erfurt,town,Auto,town
+f,1,12,verb,m,neutral,1,492.7372054269199,Albert,m,schminken,"['m', 'f']"
+m,14,0,substantiv,f,positiv,1,499.29027292569117,Monika,f,Computer,"['m', 'f']"
+f,18,7,adjektiv,m,positiv,1,537.1612872584137,Friedrich,m,fürsorglich,"['m', 'f']"
+m,4,3,verb,town,positiv,1,461.63688401725267,Rudolstadt,town,reparieren,town
+f,17,25,adjektiv,m,negativ,1,487.95866513751207,Peter,m,hysterisch,"['m', 'f']"
+m,15,27,definition,m,NA,0,474.88186347709416,Markus,m,Mann,town
+f,27,10,substantiv,town,neutral,1,536.2351919029607,Ahlen,town,Tratsch,town
+f,10,19,substantiv,town,negativ,0,523.1231902378113,Suhl,town,Küche,"['m', 'f']"
+m,29,30,definition,town,NA,1,584.3192361041929,Gladbach,town,König,town
+f,20,12,verb,town,neutral,1,602.2941463231746,Passau,town,schminken,town
+m,17,9,substantiv,f,neutral,1,518.6058563308507,Sabine,f,Skat,"['m', 'f']"
+m,11,30,definition,f,NA,1,642.2729704472658,Karin,f,König,"['m', 'f']"
+m,21,26,adjektiv,town,negativ,1,554.5475751805498,Karlsruhe,town,brutal,town
+m,4,21,verb,f,negativ,1,533.553845530605,Claudia,f,saufen,"['m', 'f']"
+f,12,29,definition,m,NA,1,661.0784331528521,Jürgen,m,Schwester,"['m', 'f']"
+m,27,1,substantiv,town,positiv,1,643.5767674383897,Ahlen,town,Sport,town
+f,29,4,verb,m,positiv,1,633.9632551064369,Thorsten,m,pflegen,"['m', 'f']"
+f,12,16,adjektiv,f,neutral,1,1124.3839650012433,Katja,f,emotional,"['m', 'f']"
+m,23,20,substantiv,m,negativ,1,523.1899585003248,Hannes,m,Schweiss,"['m', 'f']"
+m,29,8,adjektiv,town,positiv,1,537.3456682343658,Bielefeld,town,stark,town
+f,13,15,adjektiv,town,neutral,1,524.2336665692164,Halle,town,sensibel,town
+f,28,3,verb,town,positiv,1,507.28374695677303,Mannheim,town,tanzen,town
+f,25,6,adjektiv,f,positiv,1,564.5896335986436,Linda,f,einfühlsam,"['m', 'f']"
+m,26,9,substantiv,town,neutral,1,453.70375285119735,Dortmund,town,Skat,town

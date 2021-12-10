@@ -1,0 +1,9 @@
+RT,TargetWord,TargetGender,RequiredResponse,PrimeWord,Response,Accuracy
+984.8790837942261,Anne,f,f,stark,"['m', 'f']",1
+812.4633158683991,Sven,m,m,aktiv,"['m', 'f']",1
+820.7744280348379,Norbert,m,m,Haus,"['m', 'f']",1
+557.0699628025295,Köln,town,town,lesen,town,1
+552.2048193276987,Lübeck,town,town,Papier,town,1
+587.3606841092851,Anke,f,f,Schiff,"['m', 'f']",1
+771.2022058668708,Travemünde,town,town,Korb,town,1
+546.5378979730531,Buxtehude,town,town,gehen,town,1

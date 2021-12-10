@@ -1,0 +1,9 @@
+RT,TargetWord,TargetGender,RequiredResponse,PrimeWord,Response,Accuracy
+848.1315362696478,Buxtehude,town,town,gehen,"['m', 'f']",0
+1263.7597795255715,Lübeck,town,town,Papier,town,1
+419.7547453641164,Köln,town,town,lesen,"['m', 'f']",0
+666.7688211782661,Anke,f,f,Schiff,"['m', 'f']",1
+1125.9112540828937,Travemünde,town,town,Korb,"['m', 'f']",0
+1073.2338886646176,Norbert,m,m,Haus,"['m', 'f']",1
+1089.367224047237,Anne,f,f,stark,"['m', 'f']",1
+484.3819535726652,Sven,m,m,aktiv,"['m', 'f']",1

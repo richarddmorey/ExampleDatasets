@@ -1,0 +1,9 @@
+RT,TargetWord,TargetGender,RequiredResponse,PrimeWord,Response,Accuracy
+1157.6686422436069,Sven,m,m,aktiv,town,0
+1187.369344427907,Lübeck,town,town,Papier,town,1
+1091.198741739504,Köln,town,town,lesen,town,1
+1396.8789329369429,Norbert,m,m,Haus,town,0
+1599.2689014944972,Anke,f,f,Schiff,"['m', 'f']",1
+1027.2772098130645,Anne,f,f,stark,"['m', 'f']",1
+1431.7895151478979,Travemünde,town,town,Korb,town,1
+1476.2705874629773,Buxtehude,town,town,gehen,town,1

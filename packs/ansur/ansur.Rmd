@@ -1,0 +1,16 @@
+---
+title: "ANSUR"
+author: "Richard D. Morey"
+date: "06/09/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+https://www.openlab.psu.edu/ansur2/
+
+## ANSUR II Data
+
+> These are the publicly available data files as originally published. The rows are individuals in the sample. The columns are the anthropometric measures. The units are millimeters, except for mass, which is hectograms (even though the variable name says "weightkg"). The reports on this page clarify variable names. Note that the two columns at the end, "Heightin" and "Weightlbs" do not agree with the official stature and mass measures earlier in the table. They are likely self-reported.

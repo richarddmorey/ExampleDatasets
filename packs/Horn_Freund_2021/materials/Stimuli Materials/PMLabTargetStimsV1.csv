@@ -1,0 +1,13 @@
+stimulusValue,stimulusValueType,stimulusValueColor,stimulusType,correctResponse,keyCode,keyLabel,keyLabelType,keyIndex,response
+GENIALITÄT,text,black,Targetword,target,ArrowLeft,key_arrow_L.png,image,1,word
+HITZEWELLE,text,black,Targetword,target,Space,Space.png,image,2,target
+MASKIERUNG,text,black,Targetword,target,Space,Space.png,image,2,target
+GEDANKLICH,text,black,Targetword,target,Space,Space.png,image,2,target
+HAFENSTADT,text,black,Targetword,target,Space,Space.png,image,2,target
+MÜTTERLICH,text,black,Targetword,target,Space,Space.png,image,2,target
+GIMMAORTEG,text,black,Targetnonword,target,ArrowRight,key_arrow_R.png,image,3,nonword
+HULDUNAPAS,text,black,Targetnonword,target,Space,Space.png,image,2,target
+MIRGINLEFT,text,black,Targetnonword,target,Space,Space.png,image,2,target
+GAMÜCHLACH,text,black,Targetnonword,target,Space,Space.png,image,2,target
+HUUMOTLOND,text,black,Targetnonword,target,Space,Space.png,image,2,target
+METSCHÄLAR,text,black,Targetnonword,target,Space,Space.png,image,2,target

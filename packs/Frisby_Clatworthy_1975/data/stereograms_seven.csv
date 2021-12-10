@@ -1,0 +1,79 @@
+id,fuseTime,condition,fig2_order,help
+1,1.7,no help,1,nonvisual
+2,2,no help,1,nonvisual
+3,2.2,no help,1,nonvisual
+4,3.1,no help,1,nonvisual
+5,4.1,no help,1,nonvisual
+6,4.3,no help,1,nonvisual
+7,4.7,no help,1,nonvisual
+8,12.2,no help,1,nonvisual
+9,13.2,no help,1,nonvisual
+10,17.2,no help,1,nonvisual
+11,47.2,no help,1,nonvisual
+12,1.9,spiral and depth,2,nonvisual
+13,2.1,spiral and depth,2,nonvisual
+14,5.6,spiral and depth,2,nonvisual
+15,6.1,spiral and depth,2,nonvisual
+16,8.8,spiral and depth,2,nonvisual
+17,9.4,spiral and depth,2,nonvisual
+18,9.6,spiral and depth,2,nonvisual
+19,19.7,spiral and depth,2,nonvisual
+20,20.4,spiral and depth,2,nonvisual
+21,22,spiral and depth,2,nonvisual
+22,2.2,spiral,3,nonvisual
+23,3.1,spiral,3,nonvisual
+24,3.4,spiral,3,nonvisual
+25,3.8,spiral,3,nonvisual
+26,4.7,spiral,3,nonvisual
+27,6.1,spiral,3,nonvisual
+28,7.7,spiral,3,nonvisual
+29,8.3,spiral,3,nonvisual
+30,8.8,spiral,3,nonvisual
+31,9,spiral,3,nonvisual
+32,9.6,spiral,3,nonvisual
+33,12.8,spiral,3,nonvisual
+34,1.7,depth,4,nonvisual
+35,2.1,depth,4,nonvisual
+36,2.4,depth,4,nonvisual
+37,2.7,depth,4,nonvisual
+38,6.7,depth,4,nonvisual
+39,7.6,depth,4,nonvisual
+40,7.8,depth,4,nonvisual
+41,10.2,depth,4,nonvisual
+42,12.1,depth,4,nonvisual
+43,14.6,depth,4,nonvisual
+44,1.1,model,5,visual
+45,1.5,model,5,visual
+46,1.8,model,5,visual
+47,2.8,model,5,visual
+48,2.9,model,5,visual
+49,3.3,model,5,visual
+50,3.5,model,5,visual
+51,4.7,model,5,visual
+52,5.9,model,5,visual
+53,8.3,model,5,visual
+54,9.6,model,5,visual
+55,1,fixation point,6,visual
+56,1.2,fixation point,6,visual
+57,1.6,fixation point,6,visual
+58,1.8,fixation point,6,visual
+59,2.7,fixation point,6,visual
+60,3.5,fixation point,6,visual
+61,3.7,fixation point,6,visual
+62,5.8,fixation point,6,visual
+63,6,fixation point,6,visual
+64,7.4,fixation point,6,visual
+65,8.8,fixation point,6,visual
+66,19.7,fixation point,6,visual
+67,1.6,monocular contours,7,visual
+68,1.9,monocular contours,7,visual
+69,2.1,monocular contours,7,visual
+70,2.3,monocular contours,7,visual
+71,3.1,monocular contours,7,visual
+72,4.4,monocular contours,7,visual
+73,5.7,monocular contours,7,visual
+74,5.9,monocular contours,7,visual
+75,8.3,monocular contours,7,visual
+76,15,monocular contours,7,visual
+77,15.5,monocular contours,7,visual
+78,15.8,monocular contours,7,visual
